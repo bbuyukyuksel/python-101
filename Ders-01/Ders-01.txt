@@ -1,0 +1,17 @@
+path = yol
+
+file path 	= dosya'nın sistem üzerindeki yolu yolu
+directory path  = dizinin (klasörün) sistem üzerindeki yolu
+
+\ = Back Slash
+/ = Slash 
+
+.   = Burası
+..  = Bir önceki yol
+
+CMD Komutları - Bash Komutları
+
+dir = Bulunulan path'teki dosyaları listeler 
+cls = Ekranı temizler
+cd (change directory = dizin (klasör) değiştir)  = Yol değiştirme
+color
