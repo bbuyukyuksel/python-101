@@ -1,13 +1,3 @@
 1- Terminali Açıcaksın
-2- Python/Dersler klasörüne gideceksin.
-3- [Şuan path Dersler klasörünü göstermeli] en kısa yoldan Dersler klasöründeyken, Test klasörünün içerisine gireceksin
-
-Örnek
-C:\Users\Burak\Desktop\Python\Dersler>(Buraya öyle bir komut yazıcaksın ki tek komutla Test klasörünün içerisine gitmiş olucaksın ve bu komutun içerisinde "C:\" geçmemelidir.)
-
-Yasak Olan Kullanım: "C:\Users\Burak\Desktop\Python\Dersler>cd C:\Users\Burak\Desktop\Python\Test"
-
-
-Path çıktısı da aşağıdaki gibi olmalıdır.
-C:\Users\Burak\Desktop\Python\Test>
-
+2- Python/Ders-01/Assets/Source klasörüne gideceksin.
+3- [Şuan path Dersler Source klasörünü göstermeli] en kısa yoldan Source klasöründeyken, Target klasörünün içerisine gireceksin
