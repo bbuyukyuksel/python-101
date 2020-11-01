@@ -1,0 +1,39 @@
+Bilgisayar tarafından anlaşılan,
+
+
+Dosyalar iki şekilde ortaya çıkıyor.
+
+ASCII dosyalar ve Binary dosyalar.
+
+ASCII  Dosyalar : İnsan gözüyle anlaşılır, bizim okuyabildiğimiz bütün dosyalar.
+Binary Dosyalar : İnsan gözüyle bakıldığında anlaşılır olmayan dosyalardır.
+
+-----------------------------------------------------
+- Matematiksel işlemler nasıl yaptırılır?
+
+Basit İfadeler
+* Toplama
+* Çıkarma
+* Çarpma
+* Bölme
+ / : Küsaratlı bölme işlemi yapar.
+ //: Küsüratsız bölme işlemi yapar.
+
+Veriler
+
+Üstel İfadeler
+* Kareler
+* Karakökler
+
+* Mod Alma
+
+------------------------------------------------------
+- Ekrana yazı nasıl yazdırılır?
+- Bilgisayardan girdi nasıl alınır.
+- Tip Dönüşümleri nasıl gerçekleştirilir?
+- Kontroller nasıl sağlanır?
+- Döngüler nelerdir?
+.
+.
+.
+
