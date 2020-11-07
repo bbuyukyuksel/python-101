@@ -3,3 +3,20 @@
 +2) Cümle tipinde (string) 101'i tanımla, bunu float'a çevir ve 0.911 ekle ve ekrana yazdır -> Ans:101.911
 3) Float tipinde 99'u tanıma, bunu string'e çevir ve 1 ekle -> Ans:?
 4) Integer tipinde 123'ü tanımla, bunu string'e çevir ve '4' ekle. -> Ans:?
+5) 
+    5.1) Integer tipinde 15 sayısı tanımlayıp, uzun yoldan değerini 2 arttır ve ekrana yazdır
+    5.2) Integer tipinde 15 sayısı tanımlayıp, kısa yoldan değerini 2 arttır ve ekrana yazdır
+
+6) 
+    6.1) Integer tipinde 100 sayısı tanımla, uzun yoldan değerini 10'a böl ve ekrana yazdır.
+    6.2) Integer tipinde 100 sayısı tanımla, kısa yoldan değerini 10'a böl ve ekrana yazdır.
+7) 
+    7.1)String olarak Adını ve Soyadını iki ayrı değişkende depola
+    7.2)Yeni bir değişken tanımlayıp adını ve soyadını birrleştir
+    7.3)Tanımladığın değişkeni ekrana yazdır
+8) Float olarak 123 sayısını tanımla ve manipüle ederek en kısa yoldan ekrana '0123' string'ini yazdır
+9)
+    9.1) int olarak 10 tanımlayıp, 3 ile çarpıp ekrana yazdır.
+    9.2) string olarak 10 tanımlayıp, 3 ile çarpıp ekrana yazdır
+    9.3) 9.1 ile 9.2'de aldığın çıktıların sebebi nedir?
+

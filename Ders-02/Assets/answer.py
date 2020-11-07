@@ -21,3 +21,4 @@ print('kerem_odev_02:', kerem_odev_02, type(kerem_odev_02))
 
 
 
+
