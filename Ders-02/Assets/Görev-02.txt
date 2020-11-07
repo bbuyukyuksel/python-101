@@ -1,5 +1,5 @@
 # ÖDEV
-1) Cümle tipinde (string) 1453'ü tanımla, bunu integer'a çevir ve 1 ekle ve ekrana yazdır -> Ans:?
-2) Cümle tipinde (string) 101'i tanımla, bunu float'a çevir ve 0.911 ekle ve ekrana yazdır -> Ans:?
++1) Cümle tipinde (string) 1453'ü tanımla, bunu integer'a çevir ve 1 ekle ve ekrana yazdır -> Ans:1454
++2) Cümle tipinde (string) 101'i tanımla, bunu float'a çevir ve 0.911 ekle ve ekrana yazdır -> Ans:101.911
 3) Float tipinde 99'u tanıma, bunu string'e çevir ve 1 ekle -> Ans:?
 4) Integer tipinde 123'ü tanımla, bunu string'e çevir ve '4' ekle. -> Ans:?
